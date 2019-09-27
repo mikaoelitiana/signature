@@ -46,7 +46,7 @@ N'oubliez pas de modifier __Prénom__, __Nom__, __Téléphone__ et __Adresse mai
       <p style="margin: 0px; padding-bottom: 0px; font-size: 14px; font-family: Arial, Helvetica, sans-serif; font-weight:bold;">Prénom NOM - 名字</p>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif; color:#ff0042;"><i>- Votre Fonction -</i></p><br/>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">+33 (0)6 00 00 00 00</p>
-      <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">prenom.nom@ineat-conseil.fr</p>
+      <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">pnom@ineat.fr</p>
       <p style="margin-top:10px; margin-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">INEAT Lille - Euratechnologies <br/> 2, allée de la Haye du Temple<br/>59160 Lomme – France</p>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">www.ineat-group.com</p>
      </td>
@@ -72,7 +72,7 @@ N'oubliez pas de modifier __Prénom__, __Nom__, __Téléphone__ et __Adresse mai
       <p style="margin: 0px; padding-bottom: 0px; font-size: 14px; font-family: Arial, Helvetica, sans-serif; font-weight:bold;">Prénom NOM - 名字</p>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif; color:#ff0042; "><i>- Votre Fonction -</i></p><br/>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">+33 (0)6 00 00 00 00</p>
-      <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">prenom.nom@ineat-conseil.fr</p>
+      <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">pnom@ineat.fr</p>
       <p style="margin-top:10px; margin-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">INEAT Paris<br/>32 rue de Mogador <br/>75009 PARIS</p>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">www.ineat-group.com</p>
      </td>
@@ -99,7 +99,7 @@ N'oubliez pas de modifier __Prénom__, __Nom__, __Téléphone__ et __Adresse mai
       <p style="margin: 0px; padding-bottom: 0px; font-size: 14px; font-family: Arial, Helvetica, sans-serif; font-weight:bold;">Prénom NOM - 名字</p>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif; color:#ff0042;"><i>- Votre Fonction -</i></p><br/>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">+33 (0)6 00 00 00 00</p>
-      <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">prenom.nom@ineat-conseil.fr</p>
+      <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">pnom@ineat.fr</p>
       <p style="margin-top:10px; margin-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">INEAT Lyon <br/> 18/20 rue Tronchet<br/>69006 Lyon – France</p>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">www.ineat-group.com</p>
      </td>
@@ -124,7 +124,7 @@ N'oubliez pas de modifier __Prénom__, __Nom__, __Téléphone__ et __Adresse mai
       <p style="margin: 0px; padding-bottom: 0px; font-size: 14px; font-family: Arial, Helvetica, sans-serif; font-weight:bold;">Prénom NOM - 名字</p>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif; color:#ff0042;"><i>- Votre Fonction -</i></p><br/>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">+33 (0)6 00 00 00 00</p>
-      <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">prenom.nom@ineat-conseil.fr</p>
+      <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">pnom@ineat.fr</p>
       <p style="margin-top:10px; margin-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">INEAT CANADA INC <br/> 204, Rue Saint-Sacrement<br/>Suite 700<br/>Montréal, QC H2Y 1W8 - Canada</p>
       <p style="margin: 0px; padding-bottom: 0px; font-size: 11px; font-family: Arial, Helvetica, sans-serif;">www.ineat-group.com</p>
      </td>
